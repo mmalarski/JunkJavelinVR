@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.epicgames.MyProject.OBBDownloaderService;
-import com.epicgames.MyProject.DownloaderActivity;
+import com.epicgames.JunkJavelinVR.OBBDownloaderService;
+import com.epicgames.JunkJavelinVR.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.epicgames.MyProject.OBBData;
+import com.epicgames.JunkJavelinVR.OBBData;
 
 
 public class DownloadShim

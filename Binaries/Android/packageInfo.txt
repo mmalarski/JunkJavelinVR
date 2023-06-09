@@ -1,4 +1,4 @@
-com.epicgames.MyProject
+com.epicgames.JunkJavelinVR
 1
 1.0
 name='com.epicgames.unreal.GameActivity.AppType' value=''
