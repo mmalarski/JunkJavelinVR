@@ -71,3 +71,6 @@ DerivedDataCache/*
 
 # KiteDemo assets
 Content/KiteDemo/*
+
+# WaterPlane assets
+Content/WaterPlane/*
